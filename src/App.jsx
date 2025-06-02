@@ -8,7 +8,7 @@ function App() {
         <TitleMain text="TodoList" />
       </header>
       <main className="flex-1">
-        тест
+        тест тест тест
         <TodoList />
       </main>
     </>
